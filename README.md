@@ -1,6 +1,6 @@
 # club4horse
 
-(link to page)[https://ilya111kudryashov.github.io/club4horse/]
+[link to page](https://ilya111kudryashov.github.io/club4horse/)
 
 ![image](https://github.com/Ilya111Kudryashov/club4horse/assets/44931669/b0f50db7-253c-4292-915a-8c9777ae8e29)
 
